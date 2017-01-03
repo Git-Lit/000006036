@@ -1,3 +1,7 @@
+---
+layout: default
+title: Venetian Outlaw, a drama in three acts ... Translated  and adapted to the English stage by R. W. Elliston
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
