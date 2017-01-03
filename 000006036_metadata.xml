@@ -1,0 +1,62 @@
+<mets xmlns="http://www.loc.gov/METS/" xmlns:MODS="http://www.loc.gov/mods/v3"><dmdSec ID="MODSMD">
+    <mdWrap LABEL="Bibliographic meta-data of the printed version" MDTYPE="MODS" MIMETYPE="text/xml">
+      <xmlData>
+        <MODS:mods version="3.1">
+          <MODS:titleInfo>
+            <MODS:nonSort>The </MODS:nonSort>
+            <MODS:title>Venetian Outlaw, a drama in three acts ... Translated [from the French translation of J. H. D. Zschokke's “Abällino, oder der grosse Bandit”] and adapted to the English stage by R. W. Elliston</MODS:title>
+          </MODS:titleInfo>
+          <MODS:name type="personal">
+            <MODS:namePart>ELLISTON, Robert William.</MODS:namePart>
+          </MODS:name>
+          <MODS:name>
+            <MODS:namePart>VENETIAN OUTLAW</MODS:namePart>
+          </MODS:name>
+          <MODS:typeOfResource>text</MODS:typeOfResource>
+          <MODS:originInfo>
+            <MODS:place>
+              <MODS:placeTerm type="text">London</MODS:placeTerm>
+            </MODS:place>
+            <MODS:publisher>C. &amp; R. Baldwin</MODS:publisher>
+            <MODS:dateIssued>1805</MODS:dateIssued>
+            <MODS:issuance>monographic</MODS:issuance>
+          </MODS:originInfo>
+          <MODS:physicalDescription>
+            <MODS:extent>vii. 60 p. ; 8º.</MODS:extent>
+          </MODS:physicalDescription>
+          <MODS:relatedItem>
+            <MODS:titleInfo>
+              <MODS:title>Single Works. Abällino der grosse Bandit</MODS:title>
+            </MODS:titleInfo>
+            <MODS:name type="personal">
+              <MODS:namePart>Zschokke, Heinrich,</MODS:namePart>
+              <MODS:namePart type="date">1771-1848</MODS:namePart>
+            </MODS:name>
+          </MODS:relatedItem>
+          <MODS:relatedItem type="otherVersion">
+            <MODS:titleInfo>
+              <MODS:title>[The Venetian Outlaw, a drama in three acts ... Translated [from the French translation of J. H. D. Zschokke's “Abällino, oder der grosse Bandit”] and adapted to the English stage by R. W. Elliston.]</MODS:title>
+            </MODS:titleInfo>
+            <MODS:originInfo>
+              <MODS:publisher>pp. 59. D. Longworth: New-York, 1806. 12º.</MODS:publisher>
+            </MODS:originInfo>
+            <MODS:identifier type="local">(Uk)MP1.0000006469.2</MODS:identifier>
+          </MODS:relatedItem>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 642.i.25.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:location>
+            <MODS:physicalLocation>British Library HMNTS 164.g.68.</MODS:physicalLocation>
+          </MODS:location>
+          <MODS:recordInfo>
+            <MODS:recordContentSource authority="marcorg">Uk</MODS:recordContentSource>
+            <MODS:recordCreationDate encoding="w3cdtf">2001-02-02</MODS:recordCreationDate>
+            <MODS:recordChangeDate encoding="w3cdtf">2001-02-02</MODS:recordChangeDate>
+            <MODS:recordIdentifier>000006036</MODS:recordIdentifier>
+          </MODS:recordInfo>
+          <MODS:accessCondition type="Copyright Status">Out of Copyright</MODS:accessCondition>
+        </MODS:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  </mets>
