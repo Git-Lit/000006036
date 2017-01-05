@@ -7,10 +7,7 @@ title: Venetian Outlaw, a drama in three acts ... Translated  and adapted to the
 
 
 <!-- Leaf 7 -->
-  
-  BE&tcateb, ty   
-  
-  
+
   TO HIS MAJESTY.  
   
   
